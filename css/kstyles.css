@@ -1,0 +1,120 @@
+.nav-home .navbar-name img{
+    height: 12vh;
+    padding-left: 15rem;
+}
+.nav-home{
+height: 110vh;
+background-blend-mode: overlay;
+background-color: rgba(49, 12, 12, 0.76);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.nav-home .nav-links .active{
+    border: 2px solid tomato;
+    color: tomato;
+}
+.nav-home .nav-links {
+    padding-right: 10rem;
+    margin-right: 5rem;
+    padding-top: 38px;
+}
+.nav-home .nav-links li a{
+    color: tomato;
+}
+.nav-home .nav-links li:hover a{
+    color: tomato;
+    border: 2px solid tomato;
+}
+.nav-home .nav-content .nav-links {
+    padding-bottom: 3rem;
+}
+.nav-home .in-text{
+    color: white;
+    padding-top: 15rem;
+    font-weight: bold;
+}
+.nav-home .in-text button{
+    background-color: teal;
+    color: white;
+    border-radius: 8px;
+    width: 20rem;
+    height: 6rem;
+}
+.nav-home .in-text button h3{
+    padding-bottom: 30px;
+}
+.footer{
+    background-color:rgb(59, 12, 12);
+    padding: 2rem 0;
+    color: #fff;
+    height: 80px;
+    width: 970;
+}
+.footer .navbar-nav{
+    padding-bottom:0px;
+    font-size: 20px;
+}
+
+
+.nav-page{
+    height: 15vh;
+    background-blend-mode: overlay;
+    background-color: rgb(59, 12, 12);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.nav-page .nav-name img{
+    height: 12vh;
+    padding-left: 20rem;
+}
+.nav-page .nav-real .active{
+    border: 2px solid tomato;
+    color: tomato;
+}
+.nav-page .nav-real {
+    padding-right: 10rem;
+    margin-right: 5rem;
+    padding-top: 38px;
+}
+.nav-page .nav-real li a{
+    color: tomato;
+}
+.nav-page .nav-real li:hover a{
+    color: tomato;
+    border: 2px solid tomato;
+}
+.nav-page .nav-content .nav-link {
+    padding-bottom: 3rem;
+}
+.header{
+    margin-top: 20px;
+}
+.form-page{
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+.form-page button{
+    background-color: rgb(74, 74, 238);
+    color: white;
+}
+.footer1{
+    background-color:rgb(59, 12, 12);
+    margin-top: 20vh;
+    padding: 2rem 0;
+    color: #fff;
+    height: 80px;
+    width: 970;
+}
+.footer1 .navbar-nav{
+    padding-bottom:0px;
+    font-size: 20px;
+}
+
+
+.header2 .form2{
+    margin-top: 30px;
+}
